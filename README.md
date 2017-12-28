@@ -2,4 +2,4 @@
 
 This is really awesome website
 
-Edit for example
+updates made on master on GitHub before rebase
